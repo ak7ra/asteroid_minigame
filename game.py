@@ -21,7 +21,7 @@ background = gamebox.from_image(400, 300, "background.jpg")
 top_wall = gamebox.from_color(400, camera.y-300, "black", 800, 1)
 bottom_wall = gamebox.from_color(400, camera.y+300, "black", 800, 1)
 
-starting_screen_names = gamebox.from_text(400, 100, "Ami Kano (ak7ra), Hannah Boyle (hdb3uc)", 40, "black")
+starting_screen_names = gamebox.from_text(400, 100, "Welcome", 40, "black")
 starting_screen_instructions_1 = gamebox.from_text(400, 250, "Use the arrow keys to move.", 40, "black")
 starting_screen_instructions_2 = gamebox.from_text(400, 300, "Avoid the asteroids and the enemy!", 40, "black")
 starting_screen_instructions_3 = gamebox.from_text(400, 350, "You have 5 health; asteroids take away 1, ", 40, "black")
