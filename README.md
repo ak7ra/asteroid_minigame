@@ -5,7 +5,8 @@ This is the final project for the course CS1110 taught at the University of Virg
 The code written in `game.py` uses the Python programming language and Python packages such as pygame, random and gamebox. 
 
 ## Metadata
-**Author:** Ami Kano <\br>
+**Author:** Ami Kano
+
 **Project Name:** asteroid_minigame
 
 ## Synopsis
