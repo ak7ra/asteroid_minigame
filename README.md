@@ -5,7 +5,7 @@ This is the final project for the course CS1110 taught at the University of Virg
 The code written in `game.py` uses the Python programming language and Python packages such as pygame, random and gamebox. 
 
 ## Metadata
-**Author:** Ami Kano
+**Author:** Ami Kano <\br>
 **Project Name:** asteroid_minigame
 
 ## Synopsis
@@ -25,5 +25,15 @@ To run the file `game.py`, you must have these Python Packages installed:
 
 ## Manifest
 
-* 
 * README.md
+* background.jpg
+* ending_background.jpg
+* explosion sprite sheet.png
+* game.py
+* gamebox.py
+* greyasteroid.png
+* player.png
+* starting_bg.jpg
+* ufo.png
+
+Citations for .jpg and .png files are written at the bottom of `game.py`.
